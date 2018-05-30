@@ -11,7 +11,7 @@
 // Your WiFi SSID name
 #define WIFI_SSID	"Your WIFFY SSID";
 // Your WiFi SSID password
-#define WIFI_PASSWD	"Your WIFFY passowrd";
+#define WIFI_PASSWD	"Your WIFFY password";
 // Your clock hostname
 #define WIFI_HOSTNAME	"Clock";
 
